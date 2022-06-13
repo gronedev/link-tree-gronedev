@@ -6,9 +6,9 @@ export const Footer = () => {
 	return (
 		<>
 			<footer>
-				<p>
+				<h3>
 					{`<gronedev/>`}@{d.getFullYear()}
-				</p>
+				</h3>
 			</footer>
 		</>
 	);
